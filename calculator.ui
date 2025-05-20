@@ -16,7 +16,7 @@
   <widget class="QWidget" name="centralwidget">
    <layout class="QGridLayout" name="gridLayout">
     <item row="3" column="2">
-     <widget class="QPushButton" name="pushButton_13">
+     <widget class="QPushButton" name="Button3">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -29,6 +29,7 @@
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -36,6 +37,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -100,7 +102,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="3" column="0">
-     <widget class="QPushButton" name="pushButton_11">
+     <widget class="QPushButton" name="Button1">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -113,6 +115,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -120,6 +123,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -184,7 +188,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="1" column="2">
-     <widget class="QPushButton" name="pushButton_3">
+     <widget class="QPushButton" name="Button9">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -197,6 +201,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -204,6 +209,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -212,7 +218,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="3" column="1">
-     <widget class="QPushButton" name="pushButton_12">
+     <widget class="QPushButton" name="Button2">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -225,6 +231,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -232,6 +239,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -240,7 +248,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="4" column="1">
-     <widget class="QPushButton" name="pushButton_17">
+     <widget class="QPushButton" name="Button0">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -253,6 +261,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -260,6 +269,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -296,7 +306,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="2" column="1">
-     <widget class="QPushButton" name="pushButton_7">
+     <widget class="QPushButton" name="Button5">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -309,6 +319,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -316,6 +327,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -352,7 +364,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="2" column="2">
-     <widget class="QPushButton" name="pushButton_8">
+     <widget class="QPushButton" name="Button6">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -365,6 +377,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -372,6 +385,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -393,6 +407,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -400,6 +415,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -421,6 +437,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -428,6 +445,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -436,7 +454,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="1" column="0">
-     <widget class="QPushButton" name="pushButton">
+     <widget class="QPushButton" name="Button7">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -449,6 +467,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -456,6 +475,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -464,7 +484,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="1" column="1">
-     <widget class="QPushButton" name="pushButton_2">
+     <widget class="QPushButton" name="Button8">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -477,6 +497,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -484,6 +505,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
@@ -492,7 +514,7 @@ QPushButton:pressed {
      </widget>
     </item>
     <item row="2" column="0">
-     <widget class="QPushButton" name="pushButton_6">
+     <widget class="QPushButton" name="Button4">
       <property name="sizePolicy">
        <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
         <horstretch>0</horstretch>
@@ -505,6 +527,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	margin: 5px;
 	padding: 5px;
+	color: black;
 }
 
 QPushButton:pressed {
@@ -512,6 +535,7 @@ QPushButton:pressed {
 	border: 1px solid gray;
 	padding: 5px;
 	margin: 5px;
+	color: black;
 }</string>
       </property>
       <property name="text">
